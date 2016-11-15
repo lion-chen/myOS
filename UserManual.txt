@@ -1,0 +1,4 @@
+version 0.0.1
+there are only two commands:
+1. mkf - make a file in cylinder 2, sector 1 stored in hard disk
+2. open - open the file u made in cylinder 2, sector 1
