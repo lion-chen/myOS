@@ -1,0 +1,7 @@
+version 0.1.0
+myOS now supports several commands:
+1. mkf-make file
+2. open-open file
+3. echo-echo what you just typed
+4. clear-clear screen
+Warning: mkf and open commands can only offically suport sector(cylinder, head) from 1 to 9.
