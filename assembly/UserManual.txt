@@ -1,7 +1,10 @@
 version 0.1.0
 myOS now supports several commands:
-1. mkf-make file
-2. open-open file
+1. mkf-make a file. You need to specify head, sector, and cylinder in which you want to store, then you can type and press enter to save.
+2. open-open a file. You need to specify head, sector, and cylinder in which your file stored.
 3. echo-echo what you just typed
 4. clear-clear screen
 Warning: mkf and open commands can only offically suport sector(cylinder, head) from 1 to 9.
+
+installation:
+Creating a virtual machine and setting myOS.img as its floppy.
